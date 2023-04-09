@@ -1,0 +1,46 @@
+body{
+    background-color: beige;
+}
+
+.login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    font-size: 50px;
+}
+
+input{
+    border-radius: 10px;
+    height: 30px;
+    background-color:	#dbe7ef;
+}
+label{
+    color: black;
+    font-size: 30px;
+    font-weight: 40px;
+}
+.email{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.button{
+    width: 120px;
+    height: 50px;
+    color: white;
+    background-color:	#4d96fb;
+    border-radius: 5px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
